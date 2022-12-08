@@ -2,6 +2,15 @@
   text-align: center;
 }
 
+.text-left.col-md-6 {
+  text-align: initial;
+}
+
+button.me-2.float-right.btn.btn-primary {
+  float: right;
+  background-color: #277427;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
